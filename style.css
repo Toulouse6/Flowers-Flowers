@@ -28,12 +28,13 @@ h2 {
 
 .titles {
     text-align: center;
-    line-height: 25px;
+    letter-spacing: 5px;
 }
 
 p {
     text-align: center;
     font-size:  medium;
+    line-height: 1.6;
 }
 
 .img-container {
@@ -51,4 +52,11 @@ p {
     width: 150px;
     height: 250px;
     padding: 1%;
+}
+
+.about-container {
+    width: 60%;
+    justify-content: center;
+    display: flex;
+    margin: auto;
 }
