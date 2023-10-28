@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: white;
+    padding-top: 5%;
+}
+
+h2 {
+    color: gray;
+}
+
+.titles {
+    text-align: center;
+    line-height: 25px;
+}
+
+p {
+    text-align: center;
+}
