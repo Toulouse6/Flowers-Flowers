@@ -60,3 +60,10 @@ p {
     display: flex;
     margin: auto;
 }
+
+.form-container {
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    width: auto;
+}
